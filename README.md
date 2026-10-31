@@ -1,5 +1,7 @@
 # Odin Landing Page
 
+[🌐 Live Demo](https://ammucodes.github.io/odin-landing-page/)
+
 ## Preview
 
 ![Project Screenshot](images/screenshot.png)
